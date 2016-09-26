@@ -1,0 +1,27 @@
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\2048\2048\bin\Debug\2048.exe.config
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\2048\2048\bin\Debug\2048.exe
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\2048\2048\bin\Debug\2048.pdb
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.exe
+C:\Users\KShutova\Documents\Visual Studio 2015\Projects\2048\2048\obj\Debug\2048.pdb
+C:\Users\RGirbu\Downloads\2048\2048\2048\bin\Debug\2048.exe.config
+C:\Users\RGirbu\Downloads\2048\2048\2048\obj\Debug\2048.exe
+C:\Users\RGirbu\Downloads\2048\2048\2048\obj\Debug\2048.pdb
+C:\Users\RGirbu\Downloads\2048\2048\2048\bin\Debug\2048.exe
+C:\Users\RGirbu\Downloads\2048\2048\2048\bin\Debug\2048.pdb
+C:\Users\RGirbu\Downloads\2048\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\RGirbu\Downloads\2048\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\RGirbu\Downloads\2048\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\RGirbu\Downloads\2048\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\KShutova\Desktop\2048\2048\bin\Debug\2048.exe.config
+C:\Users\KShutova\Desktop\2048\2048\obj\Debug\2048.exe
+C:\Users\KShutova\Desktop\2048\2048\obj\Debug\2048.pdb
+C:\Users\KShutova\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\KShutova\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\KShutova\Desktop\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\KShutova\Desktop\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\KShutova\Desktop\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\KShutova\Desktop\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
